@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/wolfffr?theme=chartreuse&font=Rubik&ext=heatmap)(https://leetcode.com/wolfffr)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/wolfffr?theme=chartreuse&font=Rubik&ext=heatmap)](https://leetcode.com/wolfffr)
 <!--
 **WolfffR/WolfffR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
